@@ -53,4 +53,4 @@ import helpers.text_analysis as ta
 
 ---
 ### Preview of Complete Jupyter Notebook
-https://github.com/yenhao/2018_Data_Mining_LAB/blob/master/news_data_mining-student.ipynb
+https://github.com/yenhao/2018_Data_Mining_LAB/blob/master/lab1/news_data_mining-student.ipynb

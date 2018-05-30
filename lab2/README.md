@@ -49,8 +49,5 @@ from nltk.corpus import stopwords
 
 ```
 
-If you have any further questions please feel free to contact me at ellfae@gmail.com
+Have Fun
 
-Have Fun,
-
-Elvis Saravia (Data Mining TA)
