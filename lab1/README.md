@@ -1,5 +1,5 @@
-### Lab For Data Mining 2017 Fall @ NTHU
-This repository contains all the instructions and necessary code for Data Mining 2017 (Fall) lab session.
+### MINI Lab For Data Mining 2018 Fall 
+This repository contains all the instructions and necessary code for Data Mining 2018 lab session.(Update from [elvis](https://github.com/omarsar/data_mining_2017_fall_lab))
 
 ---
 
@@ -53,4 +53,4 @@ import helpers.text_analysis as ta
 
 ---
 ### Preview of Complete Jupyter Notebook
-https://github.com/omarsar/data_mining_2017_fall_lab/blob/master/news_data_mining.ipynb
+https://github.com/yenhao/2018_Data_Mining_LAB/blob/master/news_data_mining-student.ipynb
