@@ -50,7 +50,10 @@ from wordcloud import WordCloud
 import helpers.data_mining_helpers as dmh
 import helpers.text_analysis as ta
 ```
-
+Install libraries
+```
+pip install plotly, wordcloud, sklearn
+```
 ---
 ### Preview of Complete Jupyter Notebook
 https://github.com/yenhao/2018_Data_Mining_LAB/blob/master/lab1/news_data_mining-student.ipynb
