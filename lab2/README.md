@@ -49,6 +49,13 @@ from nltk.corpus import stopwords
 %matplotlib inline
 
 ```
+-------------------
+Install libraries
+
+```
+pip install smart_open sklearn gensim sklearn nltk pandas numpy matplotlib_venn
+```
+
 
 Have Fun
 
