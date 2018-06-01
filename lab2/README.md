@@ -14,6 +14,7 @@ Here is the list of packages needed for our second Data Mining Lab Session.
 * Pandas (http://pandas.pydata.org/)
 * Matplotlib (https://matplotlib.org/)
 * NLTK (for stopwords) (http://www.nltk.org/)
+* Reddit Dataset (Practice) (https://drive.google.com/open?id=0B6U0Ea4lgtAZS3ZadDVCVl9DWGs)
 
 #### Computing Resources:
 -------------------
